@@ -1,0 +1,10 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "description": "simple type checking library",
+  "main": "index.js",
+  "repository": "https://github.com/IllusionElements/types",
+  "author": "IllusionElements",
+  "license": "MIT",
+  "private": false
+}
